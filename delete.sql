@@ -1,0 +1,1 @@
+DELETE FROM book WHERE book_status = 'unavailable';
